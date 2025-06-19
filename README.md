@@ -1,4 +1,4 @@
-<h1 align="center">I'M Quang989104 - Networking Security</h1> <p align="center"> <img src="https://img.shields.io/badge/Security-Focused-blueviolet" alt="Security Badge"/> <img src="https://img.shields.io/github/stars/yourusername/ddos-detection" alt="Stars"/> <img src="https://img.shields.io/github/forks/yourusername/ddos-detection" alt="Forks"/> </p> <p align="center"> <strong>Open # 
+<h1 align="center">I'M Quang989104 - Networking Security</h1> <p align="center"> <img src="https://img.shields.io/badge/Security-Focused-blueviolet" alt="Security Badge"/> <img 
 
 🎓 I'm a Computer Science student with a strong passion for **Cybersecurity** and **Network Monitoring**.  
 🔍 My focus is on analyzing network traffic, building tools to detect cyber threats, and securing infrastructure.  
