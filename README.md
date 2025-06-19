@@ -1,4 +1,4 @@
-<h1 align="center">I'M Quang989104 - Networking Security</h1> <p align="center"> <img src="https://img.shields.io/badge/Security-Focused-blueviolet" alt="Security Badge"/> <img 
+<h1 align="center">I'M Quang989104 - Networking Security</h1> <p align="center"> 
 
 🎓 I'm a Computer Science student with a strong passion for **Cybersecurity** and **Network Monitoring**.  
 🔍 My focus is on analyzing network traffic, building tools to detect cyber threats, and securing infrastructure.  
@@ -42,6 +42,5 @@ Frontend web project using HTML/CSS for UI practice and responsive layout.
 
 > *"Security isn't a product, it's a process." – Bruce Schneier*
 
-🔗 All my projects & social links in one place:
-🌐 https://yourname.github.io
+
 
